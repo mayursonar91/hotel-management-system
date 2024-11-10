@@ -1,3 +1,3 @@
 # hotel-management-system
 
-#Implementation
+Implementation:The project is implemented using Swing GUI widget toolkit and MYSQL database.
